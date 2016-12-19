@@ -11,7 +11,7 @@ Using: `bin/hubot`
 
 ## Using with tokens
 
-Example with Slack: HUBOT_SLACK_TOKEN=<your-slack-token> bin/hubot --adapter slack
+Example with Slack: `HUBOT_SLACK_TOKEN=<your-slack-token> bin/hubot --adapter slack`
 
 
 ## Issues
